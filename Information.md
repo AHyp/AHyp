@@ -1,0 +1,12 @@
+- AHyp is a HTML translator program
+- version: 1.0.0 [ALPHA]
+- Commands:
+- prnt 
+- dprnt
+- apic
+- dapic
+- bpic
+- dbpic
+- btn
+- dbtn
+- 📫: In Comments
